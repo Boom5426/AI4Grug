@@ -1,11 +1,9 @@
-# Welcome to AI-Drug-Design
+# AI-Drug-Design
 
 ## 人工智能辅助药物发现与设计
-
-## Artificial Intelligence-assisted Drug Discovery and Design
+## Artificial Intelligence for Drug Discovery and Design
 
 ## 全球唯一的实战开源从0基础入门学习AIDD，手把手教学入门到博士大佬级别的教程
-
 ### The only practical open source in the world to learn AIDD from the 0-based entry, hand-to-hand teaching entry to the doctoral level tutorial.
 
 让我为大家简要介绍一下我负责的领域——**人工智能辅助药物发现与设计**。为了更好地帮助大家理解这一复杂的前沿技术，我将通过中文为大家进行讲解，特别是为那些可能在语言上有所障碍的同学提供支持。尽管这种内容通常更适合以英语呈现，但为了确保大家能够更好地掌握核心概念并迅速上手，我选择用中文为大家提供更加直观的学习路径。
